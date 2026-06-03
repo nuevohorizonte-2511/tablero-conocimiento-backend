@@ -1,0 +1,257 @@
+{
+  "id": 1,
+  "nombre": "Tecnología",
+  "descripcion": "Seguridad digital, redes sociales y el mundo conectado",
+  "icono": "💻",
+  "color": "#1a1a2e",
+
+  "camino": {
+    "colorFondo": "#0f3460",
+    "colorCasilla": "#e94560",
+    "colorMeta": "#f5a623",
+    "totalCasillas": 30,
+    "forma": "serpentina"
+  },
+
+  "musica": {
+    "correcto":   "correcto.mp3",
+    "incorrecto": "incorrecto.mp3",
+    "agotado":    "agotado.mp3",
+    "avanzar":    "avanzar.mp3",
+    "victoria":   "victoria.mp3"
+  },
+
+  "preguntas": [
+    {
+      "letra": "A",
+      "texto": "Según una encuesta de Kaspersky en 2024, ¿qué porcentaje de latinoamericanos sufrió algún tipo de acoso digital el año anterior?",
+      "opciones": ["25 %", "40 %", "52 %", "70 %"],
+      "correcta": 2
+    },
+    {
+      "letra": "B",
+      "texto": "¿Qué práctica consiste en divulgar información personal sin autorización en internet, como direcciones o teléfonos?",
+      "opciones": ["Fraping", "Doxing", "Grooming", "Sexting"],
+      "correcta": 1
+    },
+    {
+      "letra": "C",
+      "texto": "¿Qué nombre recibe la creación de perfiles falsos para cometer fraude o acosar en línea?",
+      "opciones": ["Ciberbullying", "Phishing", "Fraping", "Catfishing"],
+      "correcta": 3
+    },
+    {
+      "letra": "D",
+      "texto": "¿Qué porcentaje de millennials suele compartir contenido íntimo en sexting, según la revista?",
+      "opciones": ["30 %", "45 %", "60 %", "75 %"],
+      "correcta": 2
+    },
+    {
+      "letra": "E",
+      "texto": "¿Cuál es la principal estrategia de los abusadores en el grooming mencionada en la revista?",
+      "opciones": [
+        "Piden dinero de inmediato",
+        "Se muestran como figuras de autoridad",
+        "Captan la atención de la víctima en menos de 20 segundos",
+        "Se presentan con su identidad real"
+      ],
+      "correcta": 2
+    },
+    {
+      "letra": "F",
+      "texto": "¿Qué recomienda la revista respecto al uso de contraseñas?",
+      "opciones": [
+        "Usar la misma para todas las redes",
+        "Cambiarlas periódicamente y diferenciarlas",
+        "Apuntarlas en un cuaderno físico",
+        "Compartirlas solo con familiares"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "G",
+      "texto": "¿Cuál es una señal de alerta de que un contacto en línea puede ser peligroso?",
+      "opciones": [
+        "Tener muchas fotos familiares",
+        "Responder siempre con respeto",
+        "Insistir en mantener la relación en secreto",
+        "Publicar versículos bíblicos"
+      ],
+      "correcta": 2
+    },
+    {
+      "letra": "H",
+      "texto": "¿Qué efecto puede causar la exposición constante a juegos violentos?",
+      "opciones": [
+        "Aumenta la capacidad de concentración",
+        "Reduce la sensibilidad ante la violencia real",
+        "Fortalece la memoria a largo plazo",
+        "Fomenta la empatía y la compasión"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "I",
+      "texto": "¿Qué principio bíblico se menciona en la revista para guiar la conducta en el mundo digital?",
+      "opciones": [
+        "Tratar a los demás como nos gustaría ser tratados",
+        "Velar por la salvación con temor y temblor",
+        "Obedecer siempre a las autoridades",
+        "Hacer tesoros en el cielo"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "J",
+      "texto": "¿Qué hormona se ve afectada negativamente por la luz de las pantallas, perjudicando el sueño?",
+      "opciones": ["Cortisol", "Serotonina", "Melatonina", "Adrenalina"],
+      "correcta": 2
+    },
+    {
+      "letra": "K",
+      "texto": "¿Qué término describe el miedo a estar sin tu teléfono celular?",
+      "opciones": ["Grooming", "Nomofobia", "Ciberfobia", "Infoxicación"],
+      "correcta": 1
+    },
+    {
+      "letra": "L",
+      "texto": "¿Cuántas horas diarias en promedio usan los adolescentes dispositivos electrónicos, según la revista?",
+      "opciones": ["3 horas", "5 horas", "7 horas", "10 horas"],
+      "correcta": 2
+    },
+    {
+      "letra": "M",
+      "texto": "¿Qué psicólogo es reconocido por sistematizar la Comunicación No Violenta (CNV)?",
+      "opciones": ["Albert Bandura", "Marshall Rosenberg", "Howard Hendricks", "Leonard Eron"],
+      "correcta": 1
+    },
+    {
+      "letra": "N",
+      "texto": "¿Qué comparación hace la revista con el cerebro cuando se delegan tareas a aplicaciones?",
+      "opciones": [
+        "Se fortalece como un músculo",
+        "Pierde práctica como un brazo sin ejercicio",
+        "Se convierte en una máquina más eficiente",
+        "No cambia en absoluto"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "O",
+      "texto": "¿Cuál es una de las señales de abuso digital en adolescentes mencionada en la revista?",
+      "opciones": [
+        "Alegría repentina",
+        "Aislamiento social",
+        "Mayor rendimiento escolar",
+        "Interés por la lectura"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "P",
+      "texto": "¿Qué recomendación da la revista respecto a niños menores de 6 años y las pantallas?",
+      "opciones": [
+        "Pueden usarlas solo con fines educativos",
+        "Nunca deberían exponerse a pantallas",
+        "Pueden usarlas máximo 1 hora diaria",
+        "Solo bajo supervisión en fines de semana"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "Q",
+      "texto": "¿Qué libro se recomienda en la revista para tratar la compulsión digital?",
+      "opciones": [
+        "La trampa digital",
+        "La fábrica de cretinos digitales",
+        "Amargo placer",
+        "Atrévete a ser feliz"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "R",
+      "texto": "¿Qué recomendación práctica se da para reducir el uso de pantallas antes de dormir?",
+      "opciones": [
+        "Evitar dispositivos al menos una hora y media antes de dormir",
+        "Solo bajar el brillo de la pantalla",
+        "Usar audífonos en lugar de pantallas",
+        "Tomar bebidas energéticas"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "S",
+      "texto": "¿Qué problema se menciona como una de las principales causas de muerte en jóvenes (15–29) relacionado en la revista?",
+      "opciones": ["Ansiedad", "Trastornos de sueño", "Suicidio", "Esquizofrenia"],
+      "correcta": 2
+    },
+    {
+      "letra": "T",
+      "texto": "¿Qué recurso digital lanzó Instagram en 2024 para proteger a adolescentes, según la revista?",
+      "opciones": [
+        "Filtros de colores",
+        "Modo nocturno",
+        "Función de control parental",
+        "Historias temporales"
+      ],
+      "correcta": 2
+    },
+    {
+      "letra": "U",
+      "texto": "¿Qué efecto produce el exceso de redes sociales en las relaciones interpersonales de los adolescentes?",
+      "opciones": [
+        "Aumenta la empatía",
+        "Fomenta el trabajo en equipo",
+        "Provoca aislamiento y soledad",
+        "Mejora la concentración"
+      ],
+      "correcta": 2
+    },
+    {
+      "letra": "V",
+      "texto": "¿Qué práctica consiste en enviar o compartir contenidos sexualmente explícitos por medios digitales?",
+      "opciones": ["Ciberbullying", "Sexting", "Phishing", "Doxing"],
+      "correcta": 1
+    },
+    {
+      "letra": "W",
+      "texto": "¿Qué ejemplo se da en la revista sobre cómo usar internet para curar y unir personas?",
+      "opciones": [
+        "Compartir campañas de odio",
+        "Organizar campañas de apoyo y consuelo",
+        "Promover videojuegos competitivos",
+        "Difundir fake news con buena intención"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "X",
+      "texto": "¿Qué recurso espiritual menciona la revista como clave en la superación de la adicción digital?",
+      "opciones": [
+        "Confianza en Dios, oración y estudio de la Biblia",
+        "Asistencia a eventos masivos",
+        "Meditar en redes sociales",
+        "Escuchar música en streaming"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "Y",
+      "texto": "¿Qué recomendación da la revista respecto al acompañamiento de los padres?",
+      "opciones": [
+        "Supervisar los contenidos y fomentar actividades familiares",
+        "Dejar que los hijos aprendan solos en internet",
+        "Darles teléfonos desde los 5 años",
+        "Permitir acceso ilimitado bajo confianza"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "Z",
+      "texto": "¿Qué cita bíblica se menciona en la revista como guía para concentrarse en lo bueno en el mundo digital?",
+      "opciones": ["Filipenses 4:8", "Salmo 23:1", "Juan 3:16", "Proverbios 1:7"],
+      "correcta": 0
+    }
+  ]
+}

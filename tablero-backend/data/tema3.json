@@ -1,0 +1,272 @@
+{
+  "id": 3,
+  "nombre": "Salud",
+  "descripcion": "Bienestar físico, mental y espiritual",
+  "icono": "🌿",
+  "color": "#6b2737",
+
+  "camino": {
+    "colorFondo": "#4a1628",
+    "colorCasilla": "#c9184a",
+    "colorMeta": "#f5a623",
+    "totalCasillas": 30,
+    "forma": "serpentina"
+  },
+
+  "musica": {
+    "correcto":   "correcto.mp3",
+    "incorrecto": "incorrecto.mp3",
+    "agotado":    "agotado.mp3",
+    "avanzar":    "avanzar.mp3",
+    "victoria":   "victoria.mp3"
+  },
+
+  "preguntas": [
+    {
+      "letra": "A",
+      "texto": "¿Cuál de los siguientes hábitos contribuye más a una buena salud integral?",
+      "opciones": ["Dormir poco", "Comer en exceso", "Mantener hábitos saludables", "Evitar la actividad física"],
+      "correcta": 2
+    },
+    {
+      "letra": "B",
+      "texto": "¿Qué beneficio aporta una alimentación equilibrada?",
+      "opciones": [
+        "Mayor riesgo de enfermedades",
+        "Mejor funcionamiento del organismo",
+        "Pérdida total del apetito",
+        "Reducción de la masa muscular"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "C",
+      "texto": "¿Qué nutriente es la principal fuente inmediata de energía para el cuerpo?",
+      "opciones": ["Proteínas", "Vitaminas", "Carbohidratos", "Minerales"],
+      "correcta": 2
+    },
+    {
+      "letra": "D",
+      "texto": "¿Cuántas horas de sueño suelen recomendarse para un adulto promedio?",
+      "opciones": ["3 a 4 horas", "5 a 6 horas", "7 a 9 horas", "10 a 12 horas"],
+      "correcta": 2
+    },
+    {
+      "letra": "E",
+      "texto": "¿Qué efecto tiene el ejercicio físico regular sobre el sistema cardiovascular?",
+      "opciones": [
+        "Lo debilita",
+        "No produce cambios",
+        "Aumenta el riesgo cardíaco",
+        "Lo fortalece"
+      ],
+      "correcta": 3
+    },
+    {
+      "letra": "F",
+      "texto": "¿Cuál es la función principal de las frutas y verduras en la alimentación?",
+      "opciones": [
+        "Aportar vitaminas y minerales",
+        "Proveer colesterol",
+        "Generar adicciones",
+        "Eliminar proteínas"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "G",
+      "texto": "¿Qué práctica ayuda a prevenir la propagación de enfermedades infecciosas?",
+      "opciones": [
+        "Evitar beber agua",
+        "Lavarse las manos con frecuencia",
+        "Dormir menos horas",
+        "Consumir más azúcar"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "H",
+      "texto": "¿Qué órgano es responsable de bombear sangre a todo el cuerpo?",
+      "opciones": ["Pulmón", "Riñón", "Hígado", "Corazón"],
+      "correcta": 3
+    },
+    {
+      "letra": "I",
+      "texto": "¿Qué indicador se utiliza comúnmente para evaluar si una persona tiene un peso adecuado?",
+      "opciones": [
+        "Frecuencia cardíaca",
+        "Índice de masa corporal",
+        "Capacidad pulmonar",
+        "Nivel de glucosa"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "J",
+      "texto": "¿Qué vitamina se produce en la piel mediante la exposición moderada al sol?",
+      "opciones": ["Vitamina A", "Vitamina B12", "Vitamina C", "Vitamina D"],
+      "correcta": 3
+    },
+    {
+      "letra": "K",
+      "texto": "¿Qué mineral es esencial para mantener huesos y dientes fuertes?",
+      "opciones": ["Hierro", "Potasio", "Calcio", "Sodio"],
+      "correcta": 2
+    },
+    {
+      "letra": "L",
+      "texto": "¿Qué beneficio aporta una adecuada hidratación?",
+      "opciones": [
+        "Favorece el funcionamiento corporal",
+        "Reduce la circulación sanguínea",
+        "Disminuye la memoria",
+        "Debilita los músculos"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "M",
+      "texto": "¿Qué aspecto de la salud se relaciona con el manejo de emociones y pensamientos?",
+      "opciones": [
+        "Salud digestiva",
+        "Salud muscular",
+        "Salud mental",
+        "Salud ósea"
+      ],
+      "correcta": 2
+    },
+    {
+      "letra": "N",
+      "texto": "¿Qué efecto puede producir el estrés prolongado?",
+      "opciones": [
+        "Mejora permanente del sueño",
+        "Fortalecimiento inmediato del sistema inmune",
+        "Aumento de la energía indefinidamente",
+        "Problemas físicos y emocionales"
+      ],
+      "correcta": 3
+    },
+    {
+      "letra": "O",
+      "texto": "¿Qué hábito favorece una buena salud bucal?",
+      "opciones": [
+        "Cepillarse los dientes regularmente",
+        "Consumir más dulces",
+        "Evitar el uso de hilo dental",
+        "No visitar al dentista"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "P",
+      "texto": "¿Qué sistema corporal participa principalmente en la respiración?",
+      "opciones": ["Digestivo", "Respiratorio", "Endocrino", "Linfático"],
+      "correcta": 1
+    },
+    {
+      "letra": "Q",
+      "texto": "¿Qué práctica contribuye al bienestar espiritual?",
+      "opciones": [
+        "Ignorar las propias creencias",
+        "Mantener espacios de reflexión y propósito",
+        "Dormir menos horas",
+        "Evitar toda interacción social"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "R",
+      "texto": "¿Qué riesgo se asocia al consumo excesivo de tabaco?",
+      "opciones": [
+        "Mayor capacidad pulmonar",
+        "Mejor circulación",
+        "Reducción del riesgo cardiovascular",
+        "Desarrollo de enfermedades graves"
+      ],
+      "correcta": 3
+    },
+    {
+      "letra": "S",
+      "texto": "¿Qué sustancia transporta el oxígeno en la sangre?",
+      "opciones": ["Insulina", "Hemoglobina", "Colágeno", "Melanina"],
+      "correcta": 1
+    },
+    {
+      "letra": "T",
+      "texto": "¿Qué efecto tiene el sedentarismo prolongado?",
+      "opciones": [
+        "Mejora la resistencia física",
+        "Reduce el riesgo de enfermedades",
+        "Aumenta el riesgo de problemas de salud",
+        "Fortalece automáticamente los músculos"
+      ],
+      "correcta": 2
+    },
+    {
+      "letra": "U",
+      "texto": "¿Qué característica define una salud integral?",
+      "opciones": [
+        "Solo ausencia de enfermedad",
+        "Solo bienestar físico",
+        "Solo bienestar emocional",
+        "Equilibrio físico, mental y espiritual"
+      ],
+      "correcta": 3
+    },
+    {
+      "letra": "V",
+      "texto": "¿Qué vacuna ayuda a prevenir enfermedades mediante la estimulación del sistema inmune?",
+      "opciones": [
+        "Antibiótico",
+        "Vacuna preventiva",
+        "Analgésico",
+        "Antiinflamatorio"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "W",
+      "texto": "¿Qué papel cumple el agua en el organismo?",
+      "opciones": [
+        "Transportar sustancias y regular funciones",
+        "Eliminar nutrientes",
+        "Reducir la circulación",
+        "Sustituir las vitaminas"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "X",
+      "texto": "¿Qué factor influye positivamente en la salud mental?",
+      "opciones": [
+        "Aislamiento constante",
+        "Privación del sueño",
+        "Relaciones sociales saludables",
+        "Estrés continuo"
+      ],
+      "correcta": 2
+    },
+    {
+      "letra": "Y",
+      "texto": "¿Qué práctica favorece la prevención de enfermedades crónicas?",
+      "opciones": [
+        "Consumir más azúcares",
+        "Evitar los controles médicos",
+        "Reducir el consumo de agua",
+        "Mantener hábitos saludables"
+      ],
+      "correcta": 3
+    },
+    {
+      "letra": "Z",
+      "texto": "¿Qué elemento es esencial para una buena calidad de vida según el concepto moderno de salud?",
+      "opciones": [
+        "Bienestar integral",
+        "Ausencia de ejercicio",
+        "Consumo frecuente de comida rápida",
+        "Trabajo sin descanso"
+      ],
+      "correcta": 0
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": 2,
+  "nombre": "Biología",
+  "descripcion": "Estudio de los seres vivos, sus estructuras, funciones, evolución e interacción con el medio ambiente",
+  "icono": "👨‍👩‍👧‍👦",
+  "color": "#2d6a4f",
+
+  "camino": {
+    "colorFondo": "#1b4332",
+    "colorCasilla": "#52b788",
+    "colorMeta": "#f5a623",
+    "totalCasillas": 30,
+    "forma": "serpentina"
+  },
+
+  "musica": {
+    "correcto":   "correcto.mp3",
+    "incorrecto": "incorrecto.mp3",
+    "agotado":    "agotado.mp3",
+    "avanzar":    "avanzar.mp3",
+    "victoria":   "victoria.mp3"
+  },
+
+  "preguntas": [
+    {
+      "letra": "A",
+      "texto": "¿Cuál es la unidad básica estructural y funcional de los seres vivos?",
+      "opciones": ["Tejido", "Órgano", "Célula", "Sistema"],
+      "correcta": 2
+    },
+    {
+      "letra": "B",
+      "texto": "¿Qué orgánulo celular es conocido como la central energética de la célula?",
+      "opciones": ["Núcleo", "Mitocondria", "Ribosoma", "Lisosoma"],
+      "correcta": 1
+    },
+    {
+      "letra": "C",
+      "texto": "¿Qué proceso permite a las plantas fabricar su propio alimento?",
+      "opciones": ["Respiración", "Fermentación", "Digestión", "Fotosíntesis"],
+      "correcta": 3
+    },
+    {
+      "letra": "D",
+      "texto": "¿Qué molécula almacena la información genética en la mayoría de los seres vivos?",
+      "opciones": ["ARN", "ATP", "ADN", "Proteína"],
+      "correcta": 2
+    },
+    {
+      "letra": "E",
+      "texto": "¿Qué sistema del cuerpo humano es responsable del transporte de oxígeno y nutrientes?",
+      "opciones": ["Digestivo", "Respiratorio", "Nervioso", "Circulatorio"],
+      "correcta": 3
+    },
+    {
+      "letra": "F",
+      "texto": "¿Qué gas absorben principalmente las plantas durante la fotosíntesis?",
+      "opciones": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"],
+      "correcta": 2
+    },
+    {
+      "letra": "G",
+      "texto": "¿Qué científico es considerado el padre de la genética moderna?",
+      "opciones": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "Robert Hooke"],
+      "correcta": 1
+    },
+    {
+      "letra": "H",
+      "texto": "¿Qué componente de la sangre participa principalmente en la defensa del organismo?",
+      "opciones": ["Plaquetas", "Glóbulos rojos", "Plasma", "Glóbulos blancos"],
+      "correcta": 3
+    },
+    {
+      "letra": "I",
+      "texto": "¿Qué nivel de organización biológica está formado por individuos de distintas especies que interactúan?",
+      "opciones": ["Población", "Comunidad", "Organismo", "Tejido"],
+      "correcta": 1
+    },
+    {
+      "letra": "J",
+      "texto": "¿Cuál es la función principal de los ribosomas?",
+      "opciones": [
+        "Producir energía",
+        "Sintetizar proteínas",
+        "Almacenar agua",
+        "Transportar oxígeno"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "K",
+      "texto": "¿Qué reino agrupa a organismos unicelulares sin núcleo definido?",
+      "opciones": ["Protista", "Monera", "Fungi", "Animalia"],
+      "correcta": 1
+    },
+    {
+      "letra": "L",
+      "texto": "¿Qué estructura controla el ingreso y salida de sustancias en la célula?",
+      "opciones": [
+        "Membrana plasmática",
+        "Citoplasma",
+        "Núcleo",
+        "Pared celular"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "M",
+      "texto": "¿Qué tipo de reproducción genera descendientes genéticamente idénticos al progenitor?",
+      "opciones": ["Sexual", "Cruzada", "Asexual", "Alternante"],
+      "correcta": 2
+    },
+    {
+      "letra": "N",
+      "texto": "¿Qué elemento químico es indispensable para la formación de proteínas?",
+      "opciones": ["Calcio", "Nitrógeno", "Hierro", "Sodio"],
+      "correcta": 1
+    },
+    {
+      "letra": "O",
+      "texto": "¿Qué órgano humano es el principal encargado de bombear sangre?",
+      "opciones": ["Pulmón", "Hígado", "Riñón", "Corazón"],
+      "correcta": 3
+    },
+    {
+      "letra": "P",
+      "texto": "¿Qué pigmento permite a las plantas captar energía luminosa?",
+      "opciones": ["Melanina", "Hemoglobina", "Clorofila", "Caroteno"],
+      "correcta": 2
+    },
+    {
+      "letra": "Q",
+      "texto": "¿Qué nombre recibe el conjunto de genes de un organismo?",
+      "opciones": ["Fenotipo", "Genoma", "Cariotipo", "Alelo"],
+      "correcta": 1
+    },
+    {
+      "letra": "R",
+      "texto": "¿Qué proceso celular produce ATP utilizando oxígeno?",
+      "opciones": [
+        "Fermentación",
+        "Respiración celular",
+        "Difusión",
+        "Osmosis"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "S",
+      "texto": "¿Qué científico propuso la teoría de la selección natural?",
+      "opciones": [
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Charles Darwin",
+        "Carl Linneo"
+      ],
+      "correcta": 2
+    },
+    {
+      "letra": "T",
+      "texto": "¿Qué tejido vegetal transporta agua y sales minerales desde la raíz?",
+      "opciones": ["Floema", "Xilema", "Epidermis", "Parénquima"],
+      "correcta": 1
+    },
+    {
+      "letra": "U",
+      "texto": "¿Qué grupo incluye a los organismos capaces de producir su propio alimento?",
+      "opciones": [
+        "Consumidores",
+        "Descomponedores",
+        "Parásitos",
+        "Autótrofos"
+      ],
+      "correcta": 3
+    },
+    {
+      "letra": "V",
+      "texto": "¿Qué estructura contiene el material genético en las células eucariotas?",
+      "opciones": ["Núcleo", "Vacuola", "Ribosoma", "Centriolo"],
+      "correcta": 0
+    },
+    {
+      "letra": "W",
+      "texto": "¿Qué proceso ocurre cuando el agua pasa a través de una membrana semipermeable?",
+      "opciones": ["Difusión", "Transporte activo", "Osmosis", "Fagocitosis"],
+      "correcta": 2
+    },
+    {
+      "letra": "X",
+      "texto": "¿Qué tipo de mutación implica el intercambio de un nucleótido por otro?",
+      "opciones": [
+        "Inserción",
+        "Deleción",
+        "Duplicación",
+        "Sustitución"
+      ],
+      "correcta": 3
+    },
+    {
+      "letra": "Y",
+      "texto": "¿Qué nivel ecológico incluye factores bióticos y abióticos interactuando?",
+      "opciones": [
+        "Población",
+        "Comunidad",
+        "Ecosistema",
+        "Especie"
+      ],
+      "correcta": 2
+    },
+    {
+      "letra": "Z",
+      "texto": "¿Cuál es la principal función de las enzimas en los seres vivos?",
+      "opciones": [
+        "Transportar oxígeno",
+        "Almacenar energía",
+        "Acelerar reacciones químicas",
+        "Producir hormonas"
+      ],
+      "correcta": 2
+    }
+  ]
+}
