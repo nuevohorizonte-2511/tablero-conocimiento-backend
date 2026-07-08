@@ -1,8 +1,8 @@
 {
   "id": 2,
-  "nombre": "Biología",
-  "descripcion": "Estudio de los seres vivos, sus estructuras, funciones, evolución e interacción con el medio ambiente",
-  "icono": "👨‍👩‍👧‍👦",
+  "nombre": "Libro de Job",
+  "descripcion": "Estudio sobre el sufrimiento, la paciencia y la soberanía de Dios en la versión Reina-Valera 1960",
+  "icono": "📖",
   "color": "#2d6a4f",
 
   "camino": {
@@ -24,199 +24,179 @@
   "preguntas": [
     {
       "letra": "A",
-      "texto": "¿Cuál es la unidad básica estructural y funcional de los seres vivos?",
-      "opciones": ["Tejido", "Órgano", "Célula", "Sistema"],
-      "correcta": 2
+      "texto": "¿En qué tierra habitaba Job al comienzo del relato bíblico?",
+      "opciones": ["Uz", "Ur", "Galaad", "Madián"],
+      "correcta": 0
     },
     {
       "letra": "B",
-      "texto": "¿Qué orgánulo celular es conocido como la central energética de la célula?",
-      "opciones": ["Núcleo", "Mitocondria", "Ribosoma", "Lisosoma"],
-      "correcta": 1
+      "texto": "¿Cuántas ovejas poseía Job originalmente, según se describe en el primer capítulo?",
+      "opciones": ["3,000 ovejas", "5,000 ovejas", "7,000 ovejas", "10,000 ovejas"],
+      "correcta": 2
     },
     {
       "letra": "C",
-      "texto": "¿Qué proceso permite a las plantas fabricar su propio alimento?",
-      "opciones": ["Respiración", "Fermentación", "Digestión", "Fotosíntesis"],
-      "correcta": 3
+      "texto": "¿Cuántos hijos e hijas en total tenía Job antes de que comenzaran sus pruebas?",
+      "opciones": ["Cinco hijos y tres hijas", "Siete hijos y tres hijas", "Diez hijos y dos hijas", "Doce hijos"],
+      "correcta": 1
     },
     {
       "letra": "D",
-      "texto": "¿Qué molécula almacena la información genética en la mayoría de los seres vivos?",
-      "opciones": ["ARN", "ATP", "ADN", "Proteína"],
-      "correcta": 2
+      "texto": "Además de los hijos de Dios, ¿quién se presentó delante de Jehová en las asambleas celestiales?",
+      "opciones": ["Gabriel", "Satanás", "Miguel", "Rafael"],
+      "correcta": 1
     },
     {
       "letra": "E",
-      "texto": "¿Qué sistema del cuerpo humano es responsable del transporte de oxígeno y nutrientes?",
-      "opciones": ["Digestivo", "Respiratorio", "Nervioso", "Circulatorio"],
-      "correcta": 3
+      "texto": "¿Qué pueblo atacó primero las asnas y bueyes de Job, matando a filo de espada a sus criados?",
+      "opciones": ["Los caldeos", "Los sabeos", "Los filisteos", "Los amonitas"],
+      "correcta": 1
     },
     {
       "letra": "F",
-      "texto": "¿Qué gas absorben principalmente las plantas durante la fotosíntesis?",
-      "opciones": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"],
-      "correcta": 2
+      "texto": "¿Qué pueblo organizó tres escuadrones para llevarse los camellos de Job y matar a sus siervos?",
+      "opciones": ["Los sabeos", "Los caldeos", "Los asirios", "Los edomitas"],
+      "correcta": 1
     },
     {
       "letra": "G",
-      "texto": "¿Qué científico es considerado el padre de la genética moderna?",
-      "opciones": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "Robert Hooke"],
+      "texto": "¿Con qué aflicción física hirió Satanás a Job desde la planta de su pie hasta la coronilla?",
+      "opciones": ["Lepra", "Sarna maligna", "Ceguera", "Peste negra"],
       "correcta": 1
     },
     {
       "letra": "H",
-      "texto": "¿Qué componente de la sangre participa principalmente en la defensa del organismo?",
-      "opciones": ["Plaquetas", "Glóbulos rojos", "Plasma", "Glóbulos blancos"],
-      "correcta": 3
+      "texto": "¿Con qué objeto se rascaba Job la sarna mientras estaba sentado en medio de la ceniza?",
+      "opciones": ["Un trozo de madera", "Un tiesto (pedazo de alfarería)", "Una piedra afilada", "Una rama de olivo"],
+      "correcta": 1
     },
     {
       "letra": "I",
-      "texto": "¿Qué nivel de organización biológica está formado por individuos de distintas especies que interactúan?",
-      "opciones": ["Población", "Comunidad", "Organismo", "Tejido"],
-      "correcta": 1
+      "texto": "¿Qué le sugirió su esposa a Job al ver el estado en el que se encontraba?",
+      "opciones": ["Huye a otra tierra", "Pide perdón a tus amigos", "Maldice a Dios, y muérete", "Ora por sanidad"],
+      "correcta": 2
     },
     {
       "letra": "J",
-      "texto": "¿Cuál es la función principal de los ribosomas?",
+      "texto": "¿Quiénes eran los tres amigos de Job que vinieron inicialmente a consolarle?",
       "opciones": [
-        "Producir energía",
-        "Sintetizar proteínas",
-        "Almacenar agua",
-        "Transportar oxígeno"
+        "Elifaz temanita, Bildad suhita y Zofar naamatita",
+        "Eliú buzita, Elifaz temanita y Aarón",
+        "Bildad suhita, Zofar naamatita y Moisés",
+        "Mardoqueo, Eliú buzita y Elifaz temanita"
       ],
-      "correcta": 1
+      "correcta": 0
     },
     {
       "letra": "K",
-      "texto": "¿Qué reino agrupa a organismos unicelulares sin núcleo definido?",
-      "opciones": ["Protista", "Monera", "Fungi", "Animalia"],
+      "texto": "¿Cuántos días y noches pasaron sus tres amigos sentados con él en tierra en completo silencio?",
+      "opciones": ["Tres días y tres noches", "Siete días y siete noches", "Diez días y diez noches", "Cuarenta días y cuarenta noches"],
       "correcta": 1
     },
     {
       "letra": "L",
-      "texto": "¿Qué estructura controla el ingreso y salida de sustancias en la célula?",
-      "opciones": [
-        "Membrana plasmática",
-        "Citoplasma",
-        "Núcleo",
-        "Pared celular"
-      ],
-      "correcta": 0
+      "texto": "Al abrir Job su boca tras el prolongado silencio, ¿qué fue lo primero que maldijo?",
+      "opciones": ["A sus amigos", "A sus enemigos", "Su día (el día de su nacimiento)", "A su esposa"],
+      "correcta": 2
     },
     {
       "letra": "M",
-      "texto": "¿Qué tipo de reproducción genera descendientes genéticamente idénticos al progenitor?",
-      "opciones": ["Sexual", "Cruzada", "Asexual", "Alternante"],
-      "correcta": 2
+      "texto": "¿Qué certeza declara Job en el capítulo 19 con la célebre frase: 'Yo sé que mi...'?",
+      "opciones": ["Redentor vive", "Juicio está cerca", "Fin ha llegado", "Dolor cesará"],
+      "correcta": 0
     },
     {
       "letra": "N",
-      "texto": "¿Qué elemento químico es indispensable para la formación de proteínas?",
-      "opciones": ["Calcio", "Nitrógeno", "Hierro", "Sodio"],
-      "correcta": 1
+      "texto": "Según las palabras registradas en Job 28:28, ¿qué es la sabiduría para el hombre?",
+      "opciones": ["El temor del Señor", "El estudio de la ley", "El conocimiento de la naturaleza", "La paciencia en la prueba"],
+      "correcta": 0
     },
     {
       "letra": "O",
-      "texto": "¿Qué órgano humano es el principal encargado de bombear sangre?",
-      "opciones": ["Pulmón", "Hígado", "Riñón", "Corazón"],
-      "correcta": 3
+      "texto": "¿Quién era el más joven de los presentes que esperó a que hablaran los mayores antes de dar su discurso?",
+      "opciones": ["Elifaz", "Eliú", "Zofar", "Bildad"],
+      "correcta": 1
     },
     {
       "letra": "P",
-      "texto": "¿Qué pigmento permite a las plantas captar energía luminosa?",
-      "opciones": ["Melanina", "Hemoglobina", "Clorofila", "Caroteno"],
-      "correcta": 2
+      "texto": "¿Desde dónde respondió Jehová a Job para cuestionar sus argumentos en el capítulo 38?",
+      "opciones": ["Desde un torbellino", "Desde una zarza ardiente", "Desde una nube pacífica", "Desde un terremoto"],
+      "correcta": 0
     },
     {
       "letra": "Q",
-      "texto": "¿Qué nombre recibe el conjunto de genes de un organismo?",
-      "opciones": ["Fenotipo", "Genoma", "Cariotipo", "Alelo"],
+      "texto": "¿Qué imponente criatura terrestre, descrita como comiendo hierba como buey y con una fuerza singular, menciona Dios en el capítulo 40?",
+      "opciones": ["Leviatán", "Behemot", "Un unicornio", "Un águila gigante"],
       "correcta": 1
     },
     {
       "letra": "R",
-      "texto": "¿Qué proceso celular produce ATP utilizando oxígeno?",
-      "opciones": [
-        "Fermentación",
-        "Respiración celular",
-        "Difusión",
-        "Osmosis"
-      ],
+      "texto": "¿Qué gran monstruo o criatura marina indomable se describe detalladamente en el capítulo 41?",
+      "opciones": ["Behemot", "Leviatán", "Una ballena", "Un gran pez"],
       "correcta": 1
     },
     {
       "letra": "S",
-      "texto": "¿Qué científico propuso la teoría de la selección natural?",
+      "texto": "¿Qué famosa frase le expresa Job a Dios al final del libro, reconociendo su soberanía?",
       "opciones": [
-        "Gregor Mendel",
-        "Louis Pasteur",
-        "Charles Darwin",
-        "Carl Linneo"
+        "De oídas te había oído; mas ahora mis ojos te ven",
+        "Sálvame de la mano de mis enemigos",
+        "Me rindo ante tu gran poder celestial",
+        "Jehová dio, y Jehová quitó"
       ],
-      "correcta": 2
+      "correcta": 0
     },
     {
       "letra": "T",
-      "texto": "¿Qué tejido vegetal transporta agua y sales minerales desde la raíz?",
-      "opciones": ["Floema", "Xilema", "Epidermis", "Parénquima"],
+      "texto": "¿Contra quiénes se encendió la ira de Jehová por no haber hablado de Él lo recto?",
+      "opciones": ["Satanás y los sabeos", "Elifaz temanita y sus dos compañeros", "La esposa de Job", "Eliú buzita"],
       "correcta": 1
     },
     {
       "letra": "U",
-      "texto": "¿Qué grupo incluye a los organismos capaces de producir su propio alimento?",
-      "opciones": [
-        "Consumidores",
-        "Descomponedores",
-        "Parásitos",
-        "Autótrofos"
-      ],
-      "correcta": 3
-    },
-    {
-      "letra": "V",
-      "texto": "¿Qué estructura contiene el material genético en las células eucariotas?",
-      "opciones": ["Núcleo", "Vacuola", "Ribosoma", "Centriolo"],
+      "texto": "¿Qué ofrenda ordenó Dios que presentaran los amigos de Job para expiación mientras Job intercedía por ellos?",
+      "opciones": ["Siete becerros y siete carneros", "Dos palominos y dos tórtolas", "Diez ovejas sin defecto", "Tres bueyes y tres cabras"],
       "correcta": 0
     },
     {
+      "letra": "V",
+      "texto": "¿En qué momento específico quitó Jehová la aflicción de Job y comenzó su restauración?",
+      "opciones": [
+        "Cuando Job se humilló ante sus enemigos",
+        "Cuando Job oró por sus amigos",
+        "Al cumplir un año de enfermedad",
+        "Cuando su esposa le pidió perdón"
+      ],
+      "correcta": 1
+    },
+    {
       "letra": "W",
-      "texto": "¿Qué proceso ocurre cuando el agua pasa a través de una membrana semipermeable?",
-      "opciones": ["Difusión", "Transporte activo", "Osmosis", "Fagocitosis"],
+      "texto": "¿Cuántas ovejas llegó a poseer Job tras recibir el doble de todos sus bienes anteriores?",
+      "opciones": ["7,000 ovejas", "10,000 ovejas", "14,000 ovejas", "20,000 ovejas"],
       "correcta": 2
     },
     {
       "letra": "X",
-      "texto": "¿Qué tipo de mutación implica el intercambio de un nucleótido por otro?",
-      "opciones": [
-        "Inserción",
-        "Deleción",
-        "Duplicación",
-        "Sustitución"
-      ],
-      "correcta": 3
+      "texto": "¿Cuál de las siguientes fue una de las tres hijas nacidas de Job después de su restauración?",
+      "opciones": ["Jemima", "Rut", "Noemí", "Séfora"],
+      "correcta": 0
     },
     {
       "letra": "Y",
-      "texto": "¿Qué nivel ecológico incluye factores bióticos y abióticos interactuando?",
-      "opciones": [
-        "Población",
-        "Comunidad",
-        "Ecosistema",
-        "Especie"
-      ],
+      "texto": "¿Cuántos años vivió Job después de que fue liberado de su gran prueba?",
+      "opciones": ["70 años", "100 años", "140 años", "180 años"],
       "correcta": 2
     },
     {
       "letra": "Z",
-      "texto": "¿Cuál es la principal función de las enzimas en los seres vivos?",
+      "texto": "¿Qué frase pronunció Job inmediatamente después de perder a todos sus hijos y riquezas en el primer capítulo?",
       "opciones": [
-        "Transportar oxígeno",
-        "Almacenar energía",
-        "Acelerar reacciones químicas",
-        "Producir hormonas"
+        "Jehová dio, y Jehová quitó; sea el nombre de Jehová bendito",
+        "¿Recibiremos de Dios el bien, y el mal no lo recibiremos?",
+        "Perezca el día en que yo nací",
+        "He aquí, aunque él me matare, en él esperaré"
       ],
-      "correcta": 2
+      "correcta": 0
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "id": 1,
-  "nombre": "Tecnología",
-  "descripcion": "Seguridad digital, redes sociales y el mundo conectado",
-  "icono": "💻",
-  "color": "#1a1a2e",
+  "nombre": "Libro de Ester",
+  "descripcion": "Estudio y preguntas sobre el libro histórico de Ester, versión Reina-Valera 1960",
+  "icono": "👑",
+  "color": "#4a154b",
 
   "camino": {
     "colorFondo": "#0f3460",
@@ -24,234 +24,219 @@
   "preguntas": [
     {
       "letra": "A",
-      "texto": "Según una encuesta de Kaspersky en 2024, ¿qué porcentaje de latinoamericanos sufrió algún tipo de acoso digital el año anterior?",
-      "opciones": ["25 %", "40 %", "52 %", "70 %"],
-      "correcta": 2
+      "texto": "¿En qué ciudad o capital se encontraba el trono del rey Asuero al comenzar el relato?",
+      "opciones": ["Susa", "Babilonia", "Nínive", "Persépolis"],
+      "correcta": 0
     },
     {
       "letra": "B",
-      "texto": "¿Qué práctica consiste en divulgar información personal sin autorización en internet, como direcciones o teléfonos?",
-      "opciones": ["Fraping", "Doxing", "Grooming", "Sexting"],
+      "texto": "¿Quién ofreció un banquete para las mujeres en la casa real del rey Asuero en el capítulo 1?",
+      "opciones": ["Ester", "La reina Vasti", "Hadasa", "Zeres"],
       "correcta": 1
     },
     {
       "letra": "C",
-      "texto": "¿Qué nombre recibe la creación de perfiles falsos para cometer fraude o acosar en línea?",
-      "opciones": ["Ciberbullying", "Phishing", "Fraping", "Catfishing"],
-      "correcta": 3
+      "texto": "¿Cuál era el nombre hebreo de la reina Ester?",
+      "opciones": ["Hadasa", "Rut", "Sara", "Séfora"],
+      "correcta": 0
     },
     {
       "letra": "D",
-      "texto": "¿Qué porcentaje de millennials suele compartir contenido íntimo en sexting, según la revista?",
-      "opciones": ["30 %", "45 %", "60 %", "75 %"],
-      "correcta": 2
+      "texto": "¿Cuántos meses duraba en total el tiempo de atavío y purificación de las jóvenes antes de presentarse al rey?",
+      "opciones": ["6 meses", "12 meses", "3 meses", "18 meses"],
+      "correcta": 1
     },
     {
       "letra": "E",
-      "texto": "¿Cuál es la principal estrategia de los abusadores en el grooming mencionada en la revista?",
+      "texto": "¿Qué conspiración descubrió Mardoqueo que terminó salvando la vida del rey Asuero?",
       "opciones": [
-        "Piden dinero de inmediato",
-        "Se muestran como figuras de autoridad",
-        "Captan la atención de la víctima en menos de 20 segundos",
-        "Se presentan con su identidad real"
+        "Un complot de dos eunucos de la guardia para matar al rey",
+        "Un ataque sorpresa del imperio babilónico",
+        "Un intento de envenenar las fuentes de agua de Susa",
+        "Un plan de Hamán para usurpar el trono directamente"
       ],
-      "correcta": 2
+      "correcta": 0
     },
     {
       "letra": "F",
-      "texto": "¿Qué recomienda la revista respecto al uso de contraseñas?",
-      "opciones": [
-        "Usar la misma para todas las redes",
-        "Cambiarlas periódicamente y diferenciarlas",
-        "Apuntarlas en un cuaderno físico",
-        "Compartirlas solo con familiares"
-      ],
+      "texto": "¿Quién era el padre de Hamán, el enemigo de los judíos?",
+      "opciones": ["Cis", "Hametata", "Abihail", "Harbona"],
       "correcta": 1
     },
     {
       "letra": "G",
-      "texto": "¿Cuál es una señal de alerta de que un contacto en línea puede ser peligroso?",
-      "opciones": [
-        "Tener muchas fotos familiares",
-        "Responder siempre con respeto",
-        "Insistir en mantener la relación en secreto",
-        "Publicar versículos bíblicos"
-      ],
+      "texto": "¿Cuántos talentos de plata ofreció pagar Hamán a los tesoros del rey para que se emitiera el decreto de destrucción contra los judíos?",
+      "opciones": ["1,000 talentos", "5,000 talentos", "10,000 talentos", "20,000 talentos"],
       "correcta": 2
     },
     {
       "letra": "H",
-      "texto": "¿Qué efecto puede causar la exposición constante a juegos violentos?",
+      "texto": "¿Qué hizo Mardoqueo inmediatamente después de enterarse del decreto de exterminio contra su pueblo?",
       "opciones": [
-        "Aumenta la capacidad de concentración",
-        "Reduce la sensibilidad ante la violencia real",
-        "Fortalece la memoria a largo plazo",
-        "Fomenta la empatía y la compasión"
+        "Huyó secretamente de la provincia de Susa",
+        "Rasgó sus vestidos, se vistió de cilicio y ceniza, y clamó con gran clamor",
+        "Intentó ingresar por la fuerza al palacio real",
+        "Comenzó a organizar un ejército de autodefensa"
       ],
       "correcta": 1
     },
     {
       "letra": "I",
-      "texto": "¿Qué principio bíblico se menciona en la revista para guiar la conducta en el mundo digital?",
+      "texto": "Según las leyes del reino, ¿qué sanción recibía quien entraba al patio interior sin ser llamado, si el rey no extendía su cetro de oro?",
       "opciones": [
-        "Tratar a los demás como nos gustaría ser tratados",
-        "Velar por la salvación con temor y temblor",
-        "Obedecer siempre a las autoridades",
-        "Hacer tesoros en el cielo"
+        "Debía pagar una fianza de plata",
+        "Era desterrado perpetuamente del imperio",
+        "Se le aplicaba la pena de muerte",
+        "Era reducido a la servidumbre"
       ],
-      "correcta": 0
-    },
-    {
-      "letra": "J",
-      "texto": "¿Qué hormona se ve afectada negativamente por la luz de las pantallas, perjudicando el sueño?",
-      "opciones": ["Cortisol", "Serotonina", "Melatonina", "Adrenalina"],
       "correcta": 2
     },
     {
-      "letra": "K",
-      "texto": "¿Qué término describe el miedo a estar sin tu teléfono celular?",
-      "opciones": ["Grooming", "Nomofobia", "Ciberfobia", "Infoxicación"],
+      "letra": "J",
+      "texto": "¿Durante cuántos días ayunaron Ester, sus doncellas y los judíos de Susa antes de que ella se presentara ante el rey?",
+      "opciones": ["Un día completo", "Tres días, noche y día", "Siete días con sus noches", "Cuarenta días"],
       "correcta": 1
     },
     {
+      "letra": "K",
+      "texto": "¿Cómo se vistió Ester al tercer día de ayuno para comparecer en el patio interior del rey?",
+      "opciones": ["Con su vestido real", "Con ropas de sierva", "Con vestiduras de luto", "Con un lienzo blanco sin adornos"],
+      "correcta": 0
+    },
+    {
       "letra": "L",
-      "texto": "¿Cuántas horas diarias en promedio usan los adolescentes dispositivos electrónicos, según la revista?",
-      "opciones": ["3 horas", "5 horas", "7 horas", "10 horas"],
+      "texto": "¿Cuál fue la primera petición concreta que Ester le hizo al rey Asuero al presentarse ante él?",
+      "opciones": [
+        "Que destituyera inmediatamente a Hamán",
+        "Que perdonara la vida de su pueblo",
+        "Que el rey y Hamán asistieran a un banquete que ella había preparado",
+        "Que nombrara a Mardoqueo como primer ministro"
+      ],
       "correcta": 2
     },
     {
       "letra": "M",
-      "texto": "¿Qué psicólogo es reconocido por sistematizar la Comunicación No Violenta (CNV)?",
-      "opciones": ["Albert Bandura", "Marshall Rosenberg", "Howard Hendricks", "Leonard Eron"],
-      "correcta": 1
+      "texto": "¿De cuántos codos de altura sugirió Zeres (esposa de Hamán) fabricar la horca para colgar a Mardoqueo?",
+      "opciones": ["10 codos", "25 codos", "50 codos", "100 codos"],
+      "correcta": 2
     },
     {
       "letra": "N",
-      "texto": "¿Qué comparación hace la revista con el cerebro cuando se delegan tareas a aplicaciones?",
+      "texto": "¿Qué se le leyó al rey Asuero la noche en que no podía conciliar el sueño?",
       "opciones": [
-        "Se fortalece como un músculo",
-        "Pierde práctica como un brazo sin ejercicio",
-        "Se convierte en una máquina más eficiente",
-        "No cambia en absoluto"
+        "El libro de las memorias y crónicas",
+        "El código de leyes de los medos y persas",
+        "Las cartas de correspondencia con otras naciones",
+        "Los registros de las riquezas del templo"
       ],
-      "correcta": 1
+      "correcta": 0
     },
     {
       "letra": "O",
-      "texto": "¿Cuál es una de las señales de abuso digital en adolescentes mencionada en la revista?",
-      "opciones": [
-        "Alegría repentina",
-        "Aislamiento social",
-        "Mayor rendimiento escolar",
-        "Interés por la lectura"
-      ],
+      "texto": "¿A quién ordenó el rey vestir con ropa real y pasear a caballo por la plaza de la ciudad como muestra de honra?",
+      "opciones": ["A Hamán", "A Mardoqueo", "A Hegai", "A Harbona"],
       "correcta": 1
     },
     {
       "letra": "P",
-      "texto": "¿Qué recomendación da la revista respecto a niños menores de 6 años y las pantallas?",
+      "texto": "¿Cómo describió Ester a Hamán delante del rey durante el segundo banquete?",
       "opciones": [
-        "Pueden usarlas solo con fines educativos",
-        "Nunca deberían exponerse a pantallas",
-        "Pueden usarlas máximo 1 hora diaria",
-        "Solo bajo supervisión en fines de semana"
+        "Como un espía extranjero",
+        "Como un administrador descuidado",
+        "Como el enemigo y adversario, este malvado Hamán",
+        "Como un usurpador de la corona"
       ],
-      "correcta": 1
+      "correcta": 2
     },
     {
       "letra": "Q",
-      "texto": "¿Qué libro se recomienda en la revista para tratar la compulsión digital?",
-      "opciones": [
-        "La trampa digital",
-        "La fábrica de cretinos digitales",
-        "Amargo placer",
-        "Atrévete a ser feliz"
-      ],
+      "texto": "¿Quién fue el eunuco que sugirió colgar a Hamán en la misma horca que este había preparado para Mardoqueo?",
+      "opciones": ["Harbona", "HataC", "Saasgaz", "Hegai"],
       "correcta": 0
     },
     {
       "letra": "R",
-      "texto": "¿Qué recomendación práctica se da para reducir el uso de pantallas antes de dormir?",
+      "texto": "¿Qué objeto entregó el rey Asuero a Mardoqueo, el cual antes le había quitado a Hamán?",
+      "opciones": ["Su cetro de oro", "Su anillo de sellar", "Su corona secundaria", "Su manto púrpura"],
+      "correcta": 1
+    },
+    {
+      "letra": "S",
+      "texto": "¿En qué mes se redactó y firmó el nuevo decreto que autorizaba a los judíos a defenderse de sus enemigos?",
       "opciones": [
-        "Evitar dispositivos al menos una hora y media antes de dormir",
-        "Solo bajar el brillo de la pantalla",
-        "Usar audífonos en lugar de pantallas",
-        "Tomar bebidas energéticas"
+        "En el mes primero (Nisán)",
+        "En el mes tercero (Siván)",
+        "En el mes séptimo (Tisrei)",
+        "En el mes duodécimo (Adar)"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "T",
+      "texto": "¿Por qué medio se distribuyeron rápidamente las cartas del nuevo decreto a todas las provincias del imperio?",
+      "opciones": [
+        "Mediante señales de humo en las colinas",
+        "Por correos montados en caballos veloces, dromedarios y mulos",
+        "Por medio de barcos que recorrieron los ríos principales",
+        "Por emisarios a pie en relevos de corta distancia"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "U",
+      "texto": "¿En qué día del mes duodécimo (Adar) debían ejecutarse tanto el ataque de los enemigos como la defensa de los judíos?",
+      "opciones": [
+        "El día trece del mes de Adar",
+        "El día quince del mes de Adar",
+        "El día uno del mes de Adar",
+        "El día veinticuatro del mes de Adar"
       ],
       "correcta": 0
     },
     {
-      "letra": "S",
-      "texto": "¿Qué problema se menciona como una de las principales causas de muerte en jóvenes (15–29) relacionado en la revista?",
-      "opciones": ["Ansiedad", "Trastornos de sueño", "Suicidio", "Esquizofrenia"],
-      "correcta": 2
-    },
-    {
-      "letra": "T",
-      "texto": "¿Qué recurso digital lanzó Instagram en 2024 para proteger a adolescentes, según la revista?",
-      "opciones": [
-        "Filtros de colores",
-        "Modo nocturno",
-        "Función de control parental",
-        "Historias temporales"
-      ],
-      "correcta": 2
-    },
-    {
-      "letra": "U",
-      "texto": "¿Qué efecto produce el exceso de redes sociales en las relaciones interpersonales de los adolescentes?",
-      "opciones": [
-        "Aumenta la empatía",
-        "Fomenta el trabajo en equipo",
-        "Provoca aislamiento y soledad",
-        "Mejora la concentración"
-      ],
-      "correcta": 2
-    },
-    {
       "letra": "V",
-      "texto": "¿Qué práctica consiste en enviar o compartir contenidos sexualmente explícitos por medios digitales?",
-      "opciones": ["Ciberbullying", "Sexting", "Phishing", "Doxing"],
-      "correcta": 1
+      "texto": "¿Cuántos hijos de Hamán murieron a manos de los judíos en la ciudad de Susa?",
+      "opciones": ["Tres hijos", "Cinco hijos", "Diez hijos", "Doce hijos"],
+      "correcta": 2
     },
     {
       "letra": "W",
-      "texto": "¿Qué ejemplo se da en la revista sobre cómo usar internet para curar y unir personas?",
+      "texto": "¿Qué detalle específico señala la Biblia sobre las pertenencias de sus enemigos derrotados durante los combates?",
       "opciones": [
-        "Compartir campañas de odio",
-        "Organizar campañas de apoyo y consuelo",
-        "Promover videojuegos competitivos",
-        "Difundir fake news con buena intención"
+        "Que los judíos las quemaron por completo",
+        "Que los judíos no tocaron sus bienes ni el botín",
+        "Que las llevaron todas al tesoro del rey Asuero",
+        "Que las repartieron equitativamente entre las tribus"
       ],
       "correcta": 1
     },
     {
       "letra": "X",
-      "texto": "¿Qué recurso espiritual menciona la revista como clave en la superación de la adicción digital?",
-      "opciones": [
-        "Confianza en Dios, oración y estudio de la Biblia",
-        "Asistencia a eventos masivos",
-        "Meditar en redes sociales",
-        "Escuchar música en streaming"
-      ],
-      "correcta": 0
+      "texto": "¿Qué nombre se dio a la fiesta anual instituida para conmemorar la liberación y el descanso de los judíos ante sus enemigos?",
+      "opciones": ["Pascua", "Pentecostés", "Purim", "Tabernáculos"],
+      "correcta": 2
     },
     {
       "letra": "Y",
-      "texto": "¿Qué recomendación da la revista respecto al acompañamiento de los padres?",
+      "texto": "¿Qué costumbres prácticas se establecieron para la celebración de los días de Purim?",
       "opciones": [
-        "Supervisar los contenidos y fomentar actividades familiares",
-        "Dejar que los hijos aprendan solos en internet",
-        "Darles teléfonos desde los 5 años",
-        "Permitir acceso ilimitado bajo confianza"
+        "Hacer banquetes, gozo, enviar porciones cada uno a su vecino y dádivas a los pobres",
+        "Ayunar rigurosamente y ofrecer holocaustos de reconciliación",
+        "Peregrinar en masa hacia la reconstruida ciudad de Jerusalén",
+        "Guardar reposo absoluto sin encender fuego en las casas"
       ],
       "correcta": 0
     },
     {
       "letra": "Z",
-      "texto": "¿Qué cita bíblica se menciona en la revista como guía para concentrarse en lo bueno en el mundo digital?",
-      "opciones": ["Filipenses 4:8", "Salmo 23:1", "Juan 3:16", "Proverbios 1:7"],
-      "correcta": 0
+      "texto": "¿Qué posición de autoridad llegó a ocupar Mardoqueo el judío al final de la historia descrita en el capítulo 10?",
+      "opciones": [
+        "Sacerdote principal en Susa",
+        "Segundo después del rey Asuero",
+        "Gobernador único de la provincia de Judea",
+        "Comandante general de las fuerzas de caballería"
+      ],
+      "correcta": 1
     }
   ]
 }

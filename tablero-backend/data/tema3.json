@@ -1,8 +1,8 @@
 {
   "id": 3,
-  "nombre": "Salud",
-  "descripcion": "Bienestar físico, mental y espiritual",
-  "icono": "🌿",
+  "nombre": "Primera a los Corintios",
+  "descripcion": "Estudio y preguntas sobre la Primera Epístola a los Corintios, versión Reina-Valera 1960",
+  "icono": "✉️",
   "color": "#6b2737",
 
   "camino": {
@@ -24,247 +24,287 @@
   "preguntas": [
     {
       "letra": "A",
-      "texto": "¿Cuál de los siguientes hábitos contribuye más a una buena salud integral?",
-      "opciones": ["Dormir poco", "Comer en exceso", "Mantener hábitos saludables", "Evitar la actividad física"],
-      "correcta": 2
+      "texto": "¿Qué divisiones o grupos de personas se habían formado en la iglesia de Corinto según el capítulo 1?",
+      "opciones": [
+        "Unos decían: Yo soy de Pablo, de Apolos, de Cefas, o de Cristo",
+        "Unos decían: Yo soy de Moisés, de Elías o de David",
+        "Unos preferían a los fariseos y otros a los saduceos",
+        "Unos seguían a Pedro y otros a Juan el Bautista"
+      ],
+      "correcta": 0
     },
     {
       "letra": "B",
-      "texto": "¿Qué beneficio aporta una alimentación equilibrada?",
+      "texto": "Según declara Pablo, ¿qué predican ellos que resulta ser para los judíos tropezadero, y para los gentiles locura?",
       "opciones": [
-        "Mayor riesgo de enfermedades",
-        "Mejor funcionamiento del organismo",
-        "Pérdida total del apetito",
-        "Reducción de la masa muscular"
+        "La ley de Moisés",
+        "A Cristo crucificado",
+        "La circuncisión",
+        "El bautismo de Juan"
       ],
       "correcta": 1
     },
     {
       "letra": "C",
-      "texto": "¿Qué nutriente es la principal fuente inmediata de energía para el cuerpo?",
-      "opciones": ["Proteínas", "Vitaminas", "Carbohidratos", "Minerales"],
-      "correcta": 2
+      "texto": "¿Qué frase utiliza Pablo en el capítulo 2 para describir las cosas espirituales que Dios preparó para quienes le aman?",
+      "opciones": [
+        "Cosas que ojo no vio, ni oído oyó, ni han subido en corazón de hombre",
+        "Riquezas inagotables y coronas de oro terrenal",
+        "Placeres físicos en un paraíso material",
+        "Juicio eterno y condenación inmediata"
+      ],
+      "correcta": 0
     },
     {
       "letra": "D",
-      "texto": "¿Cuántas horas de sueño suelen recomendarse para un adulto promedio?",
-      "opciones": ["3 a 4 horas", "5 a 6 horas", "7 a 9 horas", "10 a 12 horas"],
-      "correcta": 2
+      "texto": "En relación con el crecimiento espiritual de la congregación, ¿qué papel desempeñaron Pablo y Apolos?",
+      "opciones": [
+        "Pablo edificó y Apolos destruyó",
+        "Pablo plantó, Apolos regó; pero el crecimiento lo dio Dios",
+        "Apolos plantó y Pablo cosechó",
+        "Ambos sembraron la cizaña en el huerto"
+      ],
+      "correcta": 1
     },
     {
       "letra": "E",
-      "texto": "¿Qué efecto tiene el ejercicio físico regular sobre el sistema cardiovascular?",
+      "texto": "¿Cuál es el único fundamento que ya está puesto y sobre el cual cada creyente debe edificar?",
       "opciones": [
-        "Lo debilita",
-        "No produce cambios",
-        "Aumenta el riesgo cardíaco",
-        "Lo fortalece"
+        "La iglesia de Jerusalén",
+        "Jesucristo",
+        "La ley y los profetas",
+        "La doctrina de los apóstoles únicamente"
       ],
-      "correcta": 3
+      "correcta": 1
     },
     {
       "letra": "F",
-      "texto": "¿Cuál es la función principal de las frutas y verduras en la alimentación?",
+      "texto": "¿Qué somos nosotros, colectiva e individualmente, donde habita el Espíritu de Dios según 1 Corintios 3:16?",
       "opciones": [
-        "Aportar vitaminas y minerales",
-        "Proveer colesterol",
-        "Generar adicciones",
-        "Eliminar proteínas"
+        "Templo de Dios",
+        "Siervos sin entendimiento",
+        "Una nación terrenal",
+        "Ángeles en la tierra"
       ],
       "correcta": 0
     },
     {
       "letra": "G",
-      "texto": "¿Qué práctica ayuda a prevenir la propagación de enfermedades infecciosas?",
+      "texto": "¿Cómo deben considerar los hombres a los apóstoles según el capítulo 4?",
       "opciones": [
-        "Evitar beber agua",
-        "Lavarse las manos con frecuencia",
-        "Dormir menos horas",
-        "Consumir más azúcar"
+        "Como reyes y gobernantes del mundo",
+        "Como servidores de Cristo y administradores de los misterios de Dios",
+        "Como jueces de la ley mosaica",
+        "Como maestros pagados por la sinagoga"
       ],
       "correcta": 1
     },
     {
       "letra": "H",
-      "texto": "¿Qué órgano es responsable de bombear sangre a todo el cuerpo?",
-      "opciones": ["Pulmón", "Riñón", "Hígado", "Corazón"],
-      "correcta": 3
+      "texto": "¿Qué grave problema moral se reportó que estaba ocurriendo y tolerándose en la iglesia de Corinto en el capítulo 5?",
+      "opciones": [
+        "Idolatría flagrante en el templo",
+        "Fornicación, específicamente un caso de incesto",
+        "Robo de los bienes comunes",
+        "Homicidio involuntario entre miembros"
+      ],
+      "correcta": 1
     },
     {
       "letra": "I",
-      "texto": "¿Qué indicador se utiliza comúnmente para evaluar si una persona tiene un peso adecuado?",
+      "texto": "¿Qué desaprobaba firmemente el apóstol Pablo que hicieran los hermanos de la iglesia en el capítulo 6?",
       "opciones": [
-        "Frecuencia cardíaca",
-        "Índice de masa corporal",
-        "Capacidad pulmonar",
-        "Nivel de glucosa"
+        "Que comieran juntos en las casas de los gentiles",
+        "Que osaran ir a juicio delante de los injustos y no ante los santos",
+        "Que vendieran sus propiedades sin el permiso de los líderes",
+        "Que cantaran himnos a Dios en la plaza pública"
       ],
       "correcta": 1
     },
     {
       "letra": "J",
-      "texto": "¿Qué vitamina se produce en la piel mediante la exposición moderada al sol?",
-      "opciones": ["Vitamina A", "Vitamina B12", "Vitamina C", "Vitamina D"],
-      "correcta": 3
+      "texto": "¿Qué afirmación solemne hace Pablo sobre nuestro cuerpo físico en relación con Dios?",
+      "opciones": [
+        "Que es una prisión material sin ningún valor espiritual",
+        "Que es templo del Espíritu Santo, el cual está en nosotros",
+        "Que pertenece exclusivamente a las leyes del estado",
+        "Que no resucitará de ninguna forma en el futuro"
+      ],
+      "correcta": 1
     },
     {
       "letra": "K",
-      "texto": "¿Qué mineral es esencial para mantener huesos y dientes fuertes?",
-      "opciones": ["Hierro", "Potasio", "Calcio", "Sodio"],
-      "correcta": 2
+      "texto": "¿Qué consejo directo da Pablo en el capítulo 7 a los solteros y viudas que no tienen don de continencia?",
+      "opciones": [
+        "Que permanezcan en ayuno perpetuo",
+        "Que es mejor casarse que estarse quemando",
+        "Que se dediquen por entero a la vida monástica",
+        "Que abandonen la iglesia local de inmediato"
+      ],
+      "correcta": 1
     },
     {
       "letra": "L",
-      "texto": "¿Qué beneficio aporta una adecuada hidratación?",
+      "texto": "Al tratar el tema de lo sacrificado a los ídolos, ¿qué contraste hace Pablo entre el conocimiento y el amor?",
       "opciones": [
-        "Favorece el funcionamiento corporal",
-        "Reduce la circulación sanguínea",
-        "Disminuye la memoria",
-        "Debilita los músculos"
+        "El conocimiento edifica, pero el amor envanece",
+        "El conocimiento envanece, pero el amor edifica",
+        "Ambos son inútiles sin la práctica de la circuncisión",
+        "El conocimiento es infinitamente superior al amor"
       ],
-      "correcta": 0
+      "correcta": 1
     },
     {
       "letra": "M",
-      "texto": "¿Qué aspecto de la salud se relaciona con el manejo de emociones y pensamientos?",
+      "texto": "¿Qué actitud de servicio e identificación describe Pablo con la frase: 'Me he hecho débil a los débiles'?",
       "opciones": [
-        "Salud digestiva",
-        "Salud muscular",
-        "Salud mental",
-        "Salud ósea"
-      ],
-      "correcta": 2
-    },
-    {
-      "letra": "N",
-      "texto": "¿Qué efecto puede producir el estrés prolongado?",
-      "opciones": [
-        "Mejora permanente del sueño",
-        "Fortalecimiento inmediato del sistema inmune",
-        "Aumento de la energía indefinidamente",
-        "Problemas físicos y emocionales"
-      ],
-      "correcta": 3
-    },
-    {
-      "letra": "O",
-      "texto": "¿Qué hábito favorece una buena salud bucal?",
-      "opciones": [
-        "Cepillarse los dientes regularmente",
-        "Consumir más dulces",
-        "Evitar el uso de hilo dental",
-        "No visitar al dentista"
+        "A todos me he hecho de todo, para que de todos modos salve a algunos",
+        "He decidido no hablar con nadie que difiera de mis ideas",
+        "He dejado de predicar el evangelio para evitar debates",
+        "Me he apartado físicamente del mundo para no contaminarme"
       ],
       "correcta": 0
     },
     {
+      "letra": "N",
+      "texto": "¿A qué analogía deportiva recurre Pablo en el capítulo 9 para animar a los creyentes a esforzarse?",
+      "opciones": [
+        "A una batalla de gladiadores",
+        "A los atletas que corren en el estadio",
+        "A la tripulación de un navío en tormenta",
+        "A los sembradores que esperan la lluvia"
+      ],
+      "correcta": 1
+    },
+    {
+      "letra": "O",
+      "texto": "¿Qué promesa fiel da Dios a los creyentes en el capítulo 10 respecto a las tentaciones?",
+      "opciones": [
+        "Que nunca experimentarán ningún tipo de tentación",
+        "Que no los dejará ser tentados más de lo que pueden resistir",
+        "Que la tentación es solo una ilusión sin consecuencias reales",
+        "Que castigará físicamente a todo aquel que sea tentado"
+      ],
+      "correcta": 1
+    },
+    {
       "letra": "P",
-      "texto": "¿Qué sistema corporal participa principalmente en la respiración?",
-      "opciones": ["Digestivo", "Respiratorio", "Endocrino", "Linfático"],
+      "texto": "¿Qué ordenanza del Señor Jesús, recibida por revelación, detalla Pablo en el capítulo 11 indicando cómo debe realizarse?",
+      "opciones": [
+        "El lavado de los pies únicamente",
+        "La Cena del Señor (la Santa Cena)",
+        "La celebración anual de los Tabernáculos",
+        "El bautismo exclusivo en el río Jordán"
+      ],
       "correcta": 1
     },
     {
       "letra": "Q",
-      "texto": "¿Qué práctica contribuye al bienestar espiritual?",
+      "texto": "Respecto a los dones espirituales en el capítulo 12, ¿qué afirma Pablo sobre su origen y variedad?",
       "opciones": [
-        "Ignorar las propias creencias",
-        "Mantener espacios de reflexión y propósito",
-        "Dormir menos horas",
-        "Evitar toda interacción social"
+        "Hay diversidad de dones, pero el Espíritu es el mismo",
+        "Todos los creyentes deben poseer exactamente los mismos dones",
+        "Los dones carismáticos dejaron de existir en la iglesia de Corinto",
+        "Solo los apóstoles principales están autorizados a usar dones"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "R",
+      "texto": "¿Con qué ilustración describe el apóstol la unidad que debe existir entre los diversos creyentes de la iglesia?",
+      "opciones": [
+        "Con las ramas injertadas en un olivo",
+        "Con un cuerpo humano que consta de muchos miembros",
+        "Con las espigas que forman un solo trigal",
+        "Con las piedras labradas de un gran edificio"
       ],
       "correcta": 1
     },
     {
-      "letra": "R",
-      "texto": "¿Qué riesgo se asocia al consumo excesivo de tabaco?",
-      "opciones": [
-        "Mayor capacidad pulmonar",
-        "Mejor circulación",
-        "Reducción del riesgo cardiovascular",
-        "Desarrollo de enfermedades graves"
-      ],
-      "correcta": 3
-    },
-    {
       "letra": "S",
-      "texto": "¿Qué sustancia transporta el oxígeno en la sangre?",
-      "opciones": ["Insulina", "Hemoglobina", "Colágeno", "Melanina"],
+      "texto": "Según el capítulo 13, ¿de qué sirve hablar en lenguas, profetizar y dar todos los bienes a los pobres si no se tiene amor?",
+      "opciones": [
+        "De gran mérito ante el juicio de los hombres",
+        "De nada sirve, se es como metal que resuena o címbalo que retiñe",
+        "Es suficiente para asegurar la salvación eterna",
+        "Sigue siendo aceptable y grato ante Dios"
+      ],
       "correcta": 1
     },
     {
       "letra": "T",
-      "texto": "¿Qué efecto tiene el sedentarismo prolongado?",
+      "texto": "Al concluir el capítulo de la preeminencia del amor, ¿cuáles son las tres virtudes que permanecen, y cuál de ellas es la mayor?",
       "opciones": [
-        "Mejora la resistencia física",
-        "Reduce el riesgo de enfermedades",
-        "Aumenta el riesgo de problemas de salud",
-        "Fortalece automáticamente los músculos"
+        "La fe, la esperanza y el amor; y la mayor de ellas es el amor",
+        "La sabiduría, la fortaleza y la fe; y la mayor es la sabiduría",
+        "La profecía, las lenguas y la ciencia; y la mayor es la ciencia",
+        "El ayuno, la oración y la generosidad; y la mayor es la oración"
+      ],
+      "correcta": 0
+    },
+    {
+      "letra": "U",
+      "texto": "¿Qué instrucción respecto al orden y la sumisión de las mujeres en las asambleas locales menciona Pablo en el capítulo 14?",
+      "opciones": [
+        "Que deben liderar todas las oraciones públicas",
+        "Que deben vestir mantos de púrpura durante el culto",
+        "Que vuestras mujeres callen en las congregaciones",
+        "Que se encarguen exclusivamente del canto de himnos"
       ],
       "correcta": 2
     },
     {
-      "letra": "U",
-      "texto": "¿Qué característica define una salud integral?",
-      "opciones": [
-        "Solo ausencia de enfermedad",
-        "Solo bienestar físico",
-        "Solo bienestar emocional",
-        "Equilibrio físico, mental y espiritual"
-      ],
-      "correcta": 3
-    },
-    {
       "letra": "V",
-      "texto": "¿Qué vacuna ayuda a prevenir enfermedades mediante la estimulación del sistema inmune?",
+      "texto": "¿Cuál es el núcleo del evangelio que Pablo declara haber recibido y transmitido en el capítulo 15?",
       "opciones": [
-        "Antibiótico",
-        "Vacuna preventiva",
-        "Analgésico",
-        "Antiinflamatorio"
+        "Las regulaciones dietéticas de la ley judía",
+        "Que Cristo murió por nuestros pecados, fue sepultado y resucitó al tercer día",
+        "La destrucción inminente del templo de Jerusalén",
+        "La obligatoriedad de diezmar rigurosamente dos veces por semana"
       ],
       "correcta": 1
     },
     {
       "letra": "W",
-      "texto": "¿Qué papel cumple el agua en el organismo?",
+      "texto": "¿Qué consecuencia fatal señala Pablo para la fe de los creyentes si Cristo no hubiera resucitado?",
       "opciones": [
-        "Transportar sustancias y regular funciones",
-        "Eliminar nutrientes",
-        "Reducir la circulación",
-        "Sustituir las vitaminas"
+        "Vana sería la predicación y vana también la fe",
+        "Sería obligatorio someterse de nuevo a los ritos del antiguo pacto",
+        "Los gobernantes romanos perseguirían con menor rigor a los cristianos",
+        "No alteraría de ningún modo sustancial las enseñanzas éticas"
       ],
       "correcta": 0
     },
     {
       "letra": "X",
-      "texto": "¿Qué factor influye positivamente en la salud mental?",
+      "texto": "¿De qué manera y con qué rapidez se efectuará la transformación final de los creyentes según el capítulo 15?",
       "opciones": [
-        "Aislamiento constante",
-        "Privación del sueño",
-        "Relaciones sociales saludables",
-        "Estrés continuo"
+        "En un momento, en un abrir y cerrar de ojos, a la final trompeta",
+        "De forma lenta e imperceptible a través de las generaciones",
+        "Solamente en el plano espiritual después de un milenio terrenal",
+        "En el instante exacto en que la persona es bautizada en agua"
       ],
-      "correcta": 2
+      "correcta": 0
     },
     {
       "letra": "Y",
-      "texto": "¿Qué práctica favorece la prevención de enfermedades crónicas?",
+      "texto": "¿Qué recomendación da Pablo respecto a las ofrendas destinadas a los necesitados de Jerusalén?",
       "opciones": [
-        "Consumir más azúcares",
-        "Evitar los controles médicos",
-        "Reducir el consumo de agua",
-        "Mantener hábitos saludables"
+        "Que se exija un cobro obligatorio según los ingresos",
+        "Que cada primer día de la semana cada uno ponga aparte algo, según haya prosperado",
+        "Que los creyentes vendan todas sus pertenencias personales",
+        "Que únicamente los ciudadanos más ricos aporten en el templo"
       ],
-      "correcta": 3
+      "correcta": 1
     },
     {
       "letra": "Z",
-      "texto": "¿Qué elemento es esencial para una buena calidad de vida según el concepto moderno de salud?",
+      "texto": "¿Qué exclamación de origen arameo utiliza Pablo al final de la epístola, la cual se traduce como 'El Señor viene'?",
       "opciones": [
-        "Bienestar integral",
-        "Ausencia de ejercicio",
-        "Consumo frecuente de comida rápida",
-        "Trabajo sin descanso"
+        "Maranata",
+        "Aleluya",
+        "Amén",
+        "Hosanna"
       ],
       "correcta": 0
     }
